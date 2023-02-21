@@ -1,4 +1,4 @@
-package com.techprimers.test.testcontrollerexample;
+package com.krish.test.testcontrollerexample;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
